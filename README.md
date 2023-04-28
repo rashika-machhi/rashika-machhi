@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashika-machhi&label=Profile%20views&color=0e75b6&style=flat" alt="rashika-machhi" /> </p>
 
-- 🔭 I’m currently working on **Career Cruise**
+- 🔭 I’m currently working on <a href="https://career-cruise.000webhostapp.com/">**Career Cruise**</a>
 
 - 🌱 I’m currently learning **Node JS, Vue**
 

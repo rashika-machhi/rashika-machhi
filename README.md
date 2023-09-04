@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on <a href="https://career-cruise.000webhostapp.com/">**Career Cruise**</a>
 
-- 🌱 I’m currently learning **Node JS, Vue**
+- 🌱 I’m currently learning **Python, Django, REST Api**
 
 - 💬 Ask me about **React**
 
